@@ -8,3 +8,11 @@ Me gusta todo lo relacionado con la tecnología e informática, en particular el
 - Aprender y leer sobre nuevas tecnologias de desarrollo
 - Videojuegos
 - Jugar fútbol 
+- Ajedrez
+
+## Mis mascotas
+> Rocky<br/>
+  <img src="https://github.com/pdep-utn-frd/23-bienvenidos-mabno/blob/main/rocky.jpeg" width="300"/><br/>
+  
+> Lola<br/>
+  <img src="https://github.com/pdep-utn-frd/23-bienvenidos-mabno/blob/main/lola.jpeg" width="300"/><br/>
